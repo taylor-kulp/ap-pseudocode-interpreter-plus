@@ -1,3 +1,6 @@
+## AP Pseudocode Interpreter+
+This project is an extention of Daniel Huang's excellent pseudocode interpretter with the goal of making it more usable for the AP Create Task.  Features are being added to support a basic graphical output with some custom (non College Board) functions to allow more meaningful application development by students.
+
 ## College Board Pseudocode Interpreter
 
 A playground for this interpreter is up on [my website](https://board.dan.onl).
